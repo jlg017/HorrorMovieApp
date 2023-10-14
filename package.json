@@ -1,0 +1,19 @@
+{
+  "name": "horrormovieapp",
+  "version": "1.0.0",
+  "description": "web app for exploring horror films",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1 "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlg017/HorrorMovieApp.git"
+  },
+  "author": "Jacqueline and Bradley Barber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlg017/HorrorMovieApp/issues"
+  },
+  "homepage": "https://github.com/jlg017/HorrorMovieApp#readme"
+}
