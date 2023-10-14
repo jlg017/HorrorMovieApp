@@ -15,3 +15,4 @@ https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm
 
 https://tailwindcss.com/
 
+https://nextui.org/
